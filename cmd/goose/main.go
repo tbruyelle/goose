@@ -7,7 +7,7 @@ import (
 	"strings"
 	"text/template"
 
-	"bitbucket.org/liamstask/goose/lib/goose"
+	"github.com/tbruyelle/goose/lib/goose"
 )
 
 // global options. available to any subcommands.
